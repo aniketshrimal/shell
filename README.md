@@ -1,36 +1,36 @@
-#Basic Shell Implementation
+# Basic Shell Implementation using C
 
-# To run 
+## To run 
 	commands
 		->make
 		->./shell
-# home directory
+## Home Directory
 	 ->The directory from which the shell is invoked will be the home directory of the shell.
-# ls 
-	**command
+## ls 
+	command
 		->ls [path] 
 		->ls -a [path]
 		->ls -al [path] 
 		->ls [path]
 		->ls -l [path]
-	**usage
+	usage
 		->List information about files(similar to linux shell).
 		->flags 'a' and 'l' are implemented.	
-# cd
-	**command
+## cd
+	command
 		->cd [path]
-	**usage
+	usage
 		->change directory.
-# echo
-	**command 
+## echo
+	command 
 		->echo [text]
-	**usage
+	usage
 		->display a line of text.	 			
-# pinfo
-	**command
+## pinfo
+	command
 		->pinfo
 		->pinfo [pid]
-	**usage
+	usage
 		->prints process related info of shell program.	
-# System Command with and without arguments
+## System Command with and without arguments
 	->Idea of foreground and background process is implemented.
