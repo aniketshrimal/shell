@@ -1,0 +1,1 @@
+void function_bg(char *cmd);    

@@ -1,0 +1,1 @@
+int function_cd (char *home, char *token);

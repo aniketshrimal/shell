@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "redirection.h": "c",
+        "unistd.h": "c",
+        "stat.h": "c",
+        "stdio.h": "c",
+        "header.h": "c",
+        "parse.h": "c"
+    }
+}

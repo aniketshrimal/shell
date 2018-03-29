@@ -1,0 +1,1 @@
+int function_ls (int value,char *path,char *home);
