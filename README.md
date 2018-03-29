@@ -1,12 +1,12 @@
-Basic Shell Implementation
+#Basic Shell Implementation
 
-*To run 
-	**commands
+# To run 
+	commands
 		->make
 		->./shell
-* home directory
+# home directory
 	 ->The directory from which the shell is invoked will be the home directory of the shell.
-* ls 
+# ls 
 	**command
 		->ls [path] 
 		->ls -a [path]
@@ -16,21 +16,21 @@ Basic Shell Implementation
 	**usage
 		->List information about files(similar to linux shell).
 		->flags 'a' and 'l' are implemented.	
-* cd
+# cd
 	**command
 		->cd [path]
 	**usage
 		->change directory.
-* echo
+# echo
 	**command 
 		->echo [text]
 	**usage
 		->display a line of text.	 			
-* pinfo
+# pinfo
 	**command
 		->pinfo
 		->pinfo [pid]
 	**usage
 		->prints process related info of shell program.	
-* System Command with and without arguments
+# System Command with and without arguments
 	->Idea of foreground and background process is implemented.
